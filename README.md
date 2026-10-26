@@ -1,8 +1,11 @@
 # F1 Stack Simulator - Dela Pena, Hazel
 
 **Name:** Hazel Dela Pena
+
 **Section:** BSIT WMT 4-2
+
 **Course:** ELEC 4 - Python Programming
+
 **Original starter repository:** https://github.com/Jackson-Soriano/f1-elec4-stack-simulator-starter.git
 
 ## About this activity
